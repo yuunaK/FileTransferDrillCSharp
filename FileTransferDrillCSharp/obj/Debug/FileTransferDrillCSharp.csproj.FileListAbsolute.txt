@@ -1,0 +1,6 @@
+c:\users\yk123\documents\visual studio 2015\Projects\FileTransferDrillCSharp\FileTransferDrillCSharp\bin\Debug\FileTransferDrillCSharp.exe.config
+C:\Users\yk123\documents\visual studio 2015\Projects\FileTransferDrillCSharp\FileTransferDrillCSharp\bin\Debug\FileTransferDrillCSharp.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\FileTransferDrillCSharp\FileTransferDrillCSharp\bin\Debug\FileTransferDrillCSharp.pdb
+C:\Users\yk123\documents\visual studio 2015\Projects\FileTransferDrillCSharp\FileTransferDrillCSharp\obj\Debug\FileTransferDrillCSharp.csprojResolveAssemblyReference.cache
+C:\Users\yk123\documents\visual studio 2015\Projects\FileTransferDrillCSharp\FileTransferDrillCSharp\obj\Debug\FileTransferDrillCSharp.exe
+C:\Users\yk123\documents\visual studio 2015\Projects\FileTransferDrillCSharp\FileTransferDrillCSharp\obj\Debug\FileTransferDrillCSharp.pdb
